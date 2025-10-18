@@ -1,5 +1,9 @@
 # 6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
 
+# NAME:R.RAGUL
+
+# REFERENCE NO:25018302
+
 **AIM:**
 
 To measure the power absorbed in a load and to verify that the power absorbed in a load is maximum only when load resistance is equal to the source resistance.
@@ -26,40 +30,25 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
 
+![WhatsApp Image 2025-10-15 at 22 44 16_a9a6425c](https://github.com/user-attachments/assets/ed2b2519-ff73-4779-8994-547eaedd52ff)
 
-**MODEL GRAPH:**
 
-Resistance (RL) in ohm
+
+**GRAPH:**
+
+![WhatsApp Image 2025-10-15 at 22 44 17_b5e43e97](https://github.com/user-attachments/assets/5c687d4c-1a99-4695-b6b5-d828c54c4c41)
+
 
 **TABULATION:**
  
-**TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
+![WhatsApp Image 2025-10-15 at 22 44 16_26d55899](https://github.com/user-attachments/assets/e3b560b5-9b4b-4ccd-b7e7-3ac5c2461977)
 
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in mA	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
-
-
-**TABLE (2): FOR PRACTICAL CALCULATION**
-
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in amps	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
 
 
 **MODEL CALCULATION:**
+
+<img width="754" height="1280" alt="image" src="https://github.com/user-attachments/assets/97a5f897-0309-4f9b-91bf-cb698ec61fbd" />
+
 
 **PROCEDURE:**
 
@@ -71,7 +60,14 @@ voltage (VL) in volts	Load Power (PL) in watts
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
 
+**MARK SPLIT-UP:**
+
+![WhatsApp Image 2025-10-15 at 23 55 38_c08c511d](https://github.com/user-attachments/assets/cf0f99f4-2f3f-4208-993e-2ce68e616509)
+
+
 **RESULT:**
+
+![WhatsApp Image 2025-10-15 at 22 44 16_a18925b6](https://github.com/user-attachments/assets/15bb381c-56b2-4b1e-bc14-be13c4960639)
 
 Thus maximum power transfer theorem is verified practically and theoretically
 
